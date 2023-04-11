@@ -4,7 +4,6 @@ public class Invoice {
     private int totalRides;
     private double totalFare;
     private double averageFare;
-
     private int userId;
 
     public Invoice() {
